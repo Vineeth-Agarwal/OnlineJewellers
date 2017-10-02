@@ -1,0 +1,28 @@
+h3,p,header	 {
+    text-align: center;
+}
+h3
+{
+ text-align: center;	color: seagreen
+}
+body {
+	background: url("b1.jpg");
+	
+
+}
+#para1{
+	color: navy;	
+	}
+	.text{
+		color:#424242;
+	}
+.imgs
+{
+	/*display: block;
+    margin: auto;
+	This can be used if bootstrap img-cirlce class is not used.*/
+	border-radius: 83px;
+	
+
+    
+}	

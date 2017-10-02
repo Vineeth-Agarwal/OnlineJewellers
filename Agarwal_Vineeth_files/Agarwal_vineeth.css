@@ -1,0 +1,25 @@
+h3,p,header	 {
+    text-align: center;
+}
+h3
+{
+ text-align: center;	color: seagreen
+}
+body {
+	background: url("b1.jpg");
+	
+    
+}
+#para1{
+	color: navy;	
+	}
+	.text{
+		color:slategrey;
+	}
+img
+{
+	display: block;
+    margin: auto;
+	border-radius: 83px;
+    
+}	
