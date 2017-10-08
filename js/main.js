@@ -12,7 +12,7 @@ var App = {
         for (var i = 0; i < 4; i++) {
             var x = "myNumber" + (i + 1);
             var prod_type = document.getElementById("mySelect" + (i + 1)).value;
-            var prod_quant = document.getElementById("qty" + (i + 1)).value;
+            var prod_quant = parseInt(document.getElementById("qty" + (i + 1)).value);
             if (prod_quant >= 0) {
                 switch (prod_type) {
                     case "earrings":
